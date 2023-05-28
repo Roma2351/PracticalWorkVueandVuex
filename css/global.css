@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    max-width: 1920px;
+    /* background-image: url(../src/assets/images/GroundTop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
